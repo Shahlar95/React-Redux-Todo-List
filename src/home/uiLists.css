@@ -1,0 +1,13 @@
+.ui{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 50px;
+}
+
+p{
+    width: 210px;
+    background-color: black;
+    color: white;
+}
